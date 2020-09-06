@@ -2,12 +2,12 @@
 
 System administrator at day, scripter at night.
 
-Experienced with PowerShell and know the basics of C# and Java, but always looking to learn other languages. 
+Experienced with PowerShell and know the basics of C# and Java, but always looking to learn improve and learn more languages and technologies. 
 
 #### Goals
 
 - 🤝 Contribute more to open source
-- 👩‍🏫 Learn more programming skills and languages like C#, JS, HTML, CSS
+- 🧽 Learn more programming skills and languages like C#, JS, HTML, CSS
 
 #### My online life
 
