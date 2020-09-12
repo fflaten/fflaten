@@ -2,7 +2,7 @@
 
 System administrator at day, scripter at night.
 
-Experienced with PowerShell and know the basics of C# and Java, but always looking to learn improve and learn more languages and technologies. 
+Experienced with PowerShell and know the basics of C# and Java. Always looking to improve my skills and learn more languages and technologies. 
 
 #### Goals
 
