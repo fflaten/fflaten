@@ -14,6 +14,7 @@ Experienced with PowerShell and know the basics of C# and Java. Always looking t
 <!--
 [<img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][web]
 -->
+[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/frodeflaten)
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/frodeflaten)
 [<img align="left" alt="StackOverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/702944/frode-f)
 
