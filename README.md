@@ -14,11 +14,6 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 📰 [frodeflaten.com](https://frodeflaten.com): Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- 123
-- 123
-- 123
-- 123
-- 123
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -55,5 +50,14 @@ Always looking to improve my skills and learn more languages and technologies.
 
 #### Stats
 
-![fflaten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&text_color=f5f5f5&title_color=ff4c29&icon_color=ff4c29&border_color=f5f5f5#gh-dark-mode-only)
-![fflaten's GitHub stats](https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67#gh-light-mode-only)
+<picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&text_color=f5f5f5&title_color=ff4c29&icon_color=ff4c29&border_color=f5f5f5"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67" />
+</picture>
