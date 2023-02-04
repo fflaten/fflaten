@@ -42,6 +42,7 @@ Always looking to improve my skills and learn more languages and technologies.
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
 <br />
+<br />
 
 ---
 
