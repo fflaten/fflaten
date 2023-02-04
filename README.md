@@ -52,12 +52,12 @@ Always looking to improve my skills and learn more languages and technologies.
 
 <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&text_color=f5f5f5&title_color=ff4c29&icon_color=ff4c29&border_color=f5f5f5"
+    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=00000000&text_color=f5f5f5&title_color=ff4c29&icon_color=ff4c29&border_color=f5f5f5"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67"
+    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=00000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=000000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=00000000&title_color=2a7a67&icon_color=2a7a67&border_color=2a7a67" />
 </picture>
