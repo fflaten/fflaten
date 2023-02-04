@@ -52,7 +52,7 @@ Always looking to improve my skills and learn more languages and technologies.
 
 <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=00000000&text_color=f5f5f5&title_color=ff4c29&icon_color=ff4c29&border_color=f5f5f5"
+    srcset="https://github-readme-stats.vercel.app/api?username=fflaten&show_icons=true&bg_color=00000000&text_color=f5f5f5&title_color=ff4c29&icon_color=ff4c29&border_color=ff4c29"
     media="(prefers-color-scheme: dark)"
     />
     <source
