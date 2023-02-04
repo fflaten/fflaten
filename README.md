@@ -14,6 +14,8 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 📰 [frodeflaten.com](https://frodeflaten.com): Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding structured data to blog posts using Astro](https://frodeflaten.com/posts/adding-structured-data-to-blog-posts-using-astro/)
+- [Rockets, blogs and PowerShell](https://frodeflaten.com/posts/rockets-blogs-and-powershell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
