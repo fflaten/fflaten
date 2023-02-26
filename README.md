@@ -48,11 +48,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2288](https://github.com/pester/Pester/issues/2288) in [pester/Pester](https://github.com/pester/Pester)
-2. 💪 Opened PR [#4425](https://github.com/PowerShell/vscode-powershell/pull/4425) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-3. 🗣 Commented on [#1911](https://github.com/PowerShell/PowerShellEditorServices/issues/1911) in [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices)
-4. 🗣 Commented on [#2298](https://github.com/pester/Pester/issues/2298) in [pester/Pester](https://github.com/pester/Pester)
-5. 🗣 Commented on [#2298](https://github.com/pester/Pester/issues/2298) in [pester/Pester](https://github.com/pester/Pester)
+1. 💪 Opened PR [#312](https://github.com/microsoft/playwright-vscode/pull/312) in [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode)
+2. ❌ Closed PR [#1](https://github.com/fflaten/playwright-vscode/pull/1) in [fflaten/playwright-vscode](https://github.com/fflaten/playwright-vscode)
+3. 💪 Opened PR [#1](https://github.com/fflaten/playwright-vscode/pull/1) in [fflaten/playwright-vscode](https://github.com/fflaten/playwright-vscode)
+4. 🗣 Commented on [#2308](https://github.com/pester/Pester/issues/2308) in [pester/Pester](https://github.com/pester/Pester)
+5. ❗️ Opened issue [#19222](https://github.com/PowerShell/PowerShell/issues/19222) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
