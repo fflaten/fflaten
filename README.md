@@ -48,11 +48,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2235](https://github.com/pester/Pester/issues/2235) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#2235](https://github.com/pester/Pester/issues/2235) in [pester/Pester](https://github.com/pester/Pester)
-3. ❗️ Opened issue [#2333](https://github.com/pester/Pester/issues/2333) in [pester/Pester](https://github.com/pester/Pester)
-4. ❗️ Opened issue [#265](https://github.com/pester/docs/issues/265) in [pester/docs](https://github.com/pester/docs)
-5. 🗣 Commented on [#2303](https://github.com/pester/Pester/issues/2303) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#2335](https://github.com/pester/Pester/issues/2335) in [pester/Pester](https://github.com/pester/Pester)
+2. 🗣 Commented on [#2335](https://github.com/pester/Pester/issues/2335) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#2335](https://github.com/pester/Pester/issues/2335) in [pester/Pester](https://github.com/pester/Pester)
+4. 🗣 Commented on [#2335](https://github.com/pester/Pester/issues/2335) in [pester/Pester](https://github.com/pester/Pester)
+5. 🗣 Commented on [#2335](https://github.com/pester/Pester/issues/2335) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
