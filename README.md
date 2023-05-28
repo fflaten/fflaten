@@ -48,11 +48,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2115](https://github.com/pester/Pester/issues/2115) in [pester/Pester](https://github.com/pester/Pester)
-2. ❗️ Closed issue [#2115](https://github.com/pester/Pester/issues/2115) in [pester/Pester](https://github.com/pester/Pester)
-3. 🗣 Commented on [#4529](https://github.com/PowerShell/vscode-powershell/issues/4529) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-4. 🗣 Commented on [#4529](https://github.com/PowerShell/vscode-powershell/issues/4529) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-5. 🗣 Commented on [#2064](https://github.com/pester/Pester/issues/2064) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#2356](https://github.com/pester/Pester/issues/2356) in [pester/Pester](https://github.com/pester/Pester)
+2. 🗣 Commented on [#2356](https://github.com/pester/Pester/issues/2356) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#725](https://github.com/microsoft/devhome/issues/725) in [microsoft/devhome](https://github.com/microsoft/devhome)
+4. 🗣 Commented on [#725](https://github.com/microsoft/devhome/issues/725) in [microsoft/devhome](https://github.com/microsoft/devhome)
+5. 🗣 Commented on [#721](https://github.com/microsoft/devhome/issues/721) in [microsoft/devhome](https://github.com/microsoft/devhome)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
