@@ -48,11 +48,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7080](https://github.com/withastro/astro/issues/7080) in [withastro/astro](https://github.com/withastro/astro)
-2. 🗣 Commented on [#2356](https://github.com/pester/Pester/issues/2356) in [pester/Pester](https://github.com/pester/Pester)
-3. 🗣 Commented on [#2356](https://github.com/pester/Pester/issues/2356) in [pester/Pester](https://github.com/pester/Pester)
-4. 🗣 Commented on [#725](https://github.com/microsoft/devhome/issues/725) in [microsoft/devhome](https://github.com/microsoft/devhome)
-5. 🗣 Commented on [#725](https://github.com/microsoft/devhome/issues/725) in [microsoft/devhome](https://github.com/microsoft/devhome)
+1. 🗣 Commented on [#2364](https://github.com/pester/Pester/issues/2364) in [pester/Pester](https://github.com/pester/Pester)
+2. 💪 Opened PR [#2364](https://github.com/pester/Pester/pull/2364) in [pester/Pester](https://github.com/pester/Pester)
+3. 🔒 Closed issue [#2357](https://github.com/pester/Pester/issues/2357) in [pester/Pester](https://github.com/pester/Pester)
+4. 🎉 Merged PR [#2362](https://github.com/pester/Pester/pull/2362) in [pester/Pester](https://github.com/pester/Pester)
+5. 🎉 Merged PR [#2348](https://github.com/pester/Pester/pull/2348) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
