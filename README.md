@@ -14,6 +14,7 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 📰 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generating Pester mocks](https://frodeflaten.com/posts/generating-pester-mocks/)
 - [Adding structured data to blog posts using Astro](https://frodeflaten.com/posts/adding-structured-data-to-blog-posts-using-astro/)
 - [Rockets, blogs and PowerShell](https://frodeflaten.com/posts/rockets-blogs-and-powershell/)
 <!-- BLOG-POST-LIST:END -->
