@@ -49,11 +49,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2374](https://github.com/pester/Pester/issues/2374) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#2374](https://github.com/pester/Pester/issues/2374) in [pester/Pester](https://github.com/pester/Pester)
-3. 🗣 Commented on [#2314](https://github.com/pester/Pester/issues/2314) in [pester/Pester](https://github.com/pester/Pester)
-4. 🔒 Reopened issue [#2314](https://github.com/pester/Pester/issues/2314) in [pester/Pester](https://github.com/pester/Pester)
-5. 🗣 Commented on [#7080](https://github.com/withastro/astro/issues/7080) in [withastro/astro](https://github.com/withastro/astro)
+1. 🗣 Commented on [#19879](https://github.com/PowerShell/PowerShell/issues/19879) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+2. 🗣 Commented on [#19894](https://github.com/PowerShell/PowerShell/issues/19894) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+3. 🗣 Commented on [#19894](https://github.com/PowerShell/PowerShell/issues/19894) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+4. 🗣 Commented on [#19894](https://github.com/PowerShell/PowerShell/issues/19894) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+5. 🗣 Commented on [#19893](https://github.com/PowerShell/PowerShell/issues/19893) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
