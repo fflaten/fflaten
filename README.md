@@ -49,11 +49,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2379](https://github.com/pester/Pester/pull/2379) in [pester/Pester](https://github.com/pester/Pester)
-2. 💪 Opened PR [#2378](https://github.com/pester/Pester/pull/2378) in [pester/Pester](https://github.com/pester/Pester)
-3. 💪 Opened PR [#2377](https://github.com/pester/Pester/pull/2377) in [pester/Pester](https://github.com/pester/Pester)
-4. 💪 Opened PR [#277](https://github.com/pester/docs/pull/277) in [pester/docs](https://github.com/pester/docs)
-5. 🗣 Commented on [#2376](https://github.com/pester/Pester/issues/2376) in [pester/Pester](https://github.com/pester/Pester)
+1. ❗ Opened issue [#7767](https://github.com/withastro/astro/issues/7767) in [withastro/astro](https://github.com/withastro/astro)
+2. 🗣 Commented on [#31](https://github.com/expressive-code/expressive-code/issues/31#issuecomment-1642459147) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+3. 🗣 Commented on [#17760](https://github.com/PowerShell/PowerShell/pull/17760#issuecomment-1642382044) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+4. 🎉 Merged PR [#4](https://github.com/fflaten/fflaten/pull/4) in [fflaten/fflaten](https://github.com/fflaten/fflaten)
+5. 🗣 Commented on [#278](https://github.com/pester/docs/pull/278#issuecomment-1637177162) in [pester/docs](https://github.com/pester/docs)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
