@@ -49,11 +49,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7767](https://github.com/withastro/astro/issues/7767) in [withastro/astro](https://github.com/withastro/astro)
-2. 🗣 Commented on [#31](https://github.com/expressive-code/expressive-code/issues/31#issuecomment-1642459147) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-3. 🗣 Commented on [#17760](https://github.com/PowerShell/PowerShell/pull/17760#issuecomment-1642382044) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-4. 🎉 Merged PR [#4](https://github.com/fflaten/fflaten/pull/4) in [fflaten/fflaten](https://github.com/fflaten/fflaten)
-5. 🗣 Commented on [#278](https://github.com/pester/docs/pull/278#issuecomment-1637177162) in [pester/docs](https://github.com/pester/docs)
+1. 💪 Opened PR [#434](https://github.com/withastro/starlight/pull/434) in [withastro/starlight](https://github.com/withastro/starlight)
+2. ❗ Opened issue [#433](https://github.com/withastro/starlight/issues/433) in [withastro/starlight](https://github.com/withastro/starlight)
+3. 🗣 Commented on [#4668](https://github.com/PowerShell/vscode-powershell/issues/4668#issuecomment-1656722367) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+4. 🗣 Commented on [#20044](https://github.com/PowerShell/PowerShell/issues/20044#issuecomment-1656716810) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+5. 🗣 Commented on [#4668](https://github.com/PowerShell/vscode-powershell/issues/4668#issuecomment-1656708506) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
