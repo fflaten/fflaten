@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#434](https://github.com/withastro/starlight/pull/434) in [withastro/starlight](https://github.com/withastro/starlight)
-2. ❗ Opened issue [#433](https://github.com/withastro/starlight/issues/433) in [withastro/starlight](https://github.com/withastro/starlight)
-3. 🗣 Commented on [#4668](https://github.com/PowerShell/vscode-powershell/issues/4668#issuecomment-1656722367) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-4. 🗣 Commented on [#20044](https://github.com/PowerShell/PowerShell/issues/20044#issuecomment-1656716810) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-5. 🗣 Commented on [#4668](https://github.com/PowerShell/vscode-powershell/issues/4668#issuecomment-1656708506) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+1. 🗣 Commented on [#43](https://github.com/expressive-code/expressive-code/pull/43#issuecomment-1666209713) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+2. 🗣 Commented on [#43](https://github.com/expressive-code/expressive-code/pull/43#issuecomment-1666129479) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+3. ❗ Opened issue [#7966](https://github.com/withastro/astro/issues/7966) in [withastro/astro](https://github.com/withastro/astro)
+4. 💪 Opened PR [#43](https://github.com/expressive-code/expressive-code/pull/43) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+5. 💪 Opened PR [#21](https://github.com/delucis/astro-auto-import/pull/21) in [delucis/astro-auto-import](https://github.com/delucis/astro-auto-import)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
