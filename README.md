@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/expressive-code/expressive-code/pull/43#issuecomment-1666209713) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-2. 🗣 Commented on [#43](https://github.com/expressive-code/expressive-code/pull/43#issuecomment-1666129479) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-3. ❗ Opened issue [#7966](https://github.com/withastro/astro/issues/7966) in [withastro/astro](https://github.com/withastro/astro)
-4. 💪 Opened PR [#43](https://github.com/expressive-code/expressive-code/pull/43) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-5. 💪 Opened PR [#21](https://github.com/delucis/astro-auto-import/pull/21) in [delucis/astro-auto-import](https://github.com/delucis/astro-auto-import)
+1. 🗣 Commented on [#1903](https://github.com/PowerShell/PSScriptAnalyzer/pull/1903#issuecomment-1675298363) in [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
+2. 🗣 Commented on [#1903](https://github.com/PowerShell/PSScriptAnalyzer/pull/1903#issuecomment-1675293509) in [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
+3. 🗣 Commented on [#272](https://github.com/pester/docs/pull/272#issuecomment-1674708379) in [pester/docs](https://github.com/pester/docs)
+4. 🗣 Commented on [#47](https://github.com/expressive-code/expressive-code/pull/47#issuecomment-1671718005) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+5. 🗣 Commented on [#47](https://github.com/expressive-code/expressive-code/pull/47#issuecomment-1671515252) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
