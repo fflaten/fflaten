@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/expressive-code/expressive-code/pull/50#issuecomment-1685022393) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-2. 🔒 Closed issue [#7966](https://github.com/withastro/astro/issues/7966) in [withastro/astro](https://github.com/withastro/astro)
-3. 🗣 Commented on [#7966](https://github.com/withastro/astro/issues/7966#issuecomment-1684312366) in [withastro/astro](https://github.com/withastro/astro)
-4. 🗣 Commented on [#1903](https://github.com/PowerShell/PSScriptAnalyzer/pull/1903#issuecomment-1681177178) in [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
-5. 🗣 Commented on [#1903](https://github.com/PowerShell/PSScriptAnalyzer/pull/1903#issuecomment-1681134282) in [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
+1. 🗣 Commented on [#4296](https://github.com/withastro/docs/issues/4296#issuecomment-1688567901) in [withastro/docs](https://github.com/withastro/docs)
+2. 🗣 Commented on [#8165](https://github.com/withastro/astro/issues/8165#issuecomment-1685317107) in [withastro/astro](https://github.com/withastro/astro)
+3. 🗣 Commented on [#54](https://github.com/expressive-code/expressive-code/pull/54#issuecomment-1685306331) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+4. 🗣 Commented on [#8165](https://github.com/withastro/astro/issues/8165#issuecomment-1685305303) in [withastro/astro](https://github.com/withastro/astro)
+5. 🗣 Commented on [#8165](https://github.com/withastro/astro/issues/8165#issuecomment-1685299776) in [withastro/astro](https://github.com/withastro/astro)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
