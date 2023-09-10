@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2390](https://github.com/pester/Pester/issues/2390#issuecomment-1703889661) in [pester/Pester](https://github.com/pester/Pester)
-2. ❗ Opened issue [#280](https://github.com/pester/docs/issues/280) in [pester/docs](https://github.com/pester/docs)
-3. 🗣 Commented on [#8345](https://github.com/withastro/astro/pull/8345#issuecomment-1703812618) in [withastro/astro](https://github.com/withastro/astro)
-4. 🗣 Commented on [#2389](https://github.com/pester/Pester/issues/2389#issuecomment-1701639855) in [pester/Pester](https://github.com/pester/Pester)
-5. 🗣 Commented on [#2388](https://github.com/pester/Pester/issues/2388#issuecomment-1699817412) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#281](https://github.com/pester/docs/pull/281#issuecomment-1711415495) in [pester/docs](https://github.com/pester/docs)
+2. 🗣 Commented on [#2390](https://github.com/pester/Pester/issues/2390#issuecomment-1708585144) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#7002](https://github.com/pnpm/pnpm/issues/7002#issuecomment-1708536514) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+4. 🗣 Commented on [#2390](https://github.com/pester/Pester/issues/2390#issuecomment-1703889661) in [pester/Pester](https://github.com/pester/Pester)
+5. ❗ Opened issue [#280](https://github.com/pester/docs/issues/280) in [pester/docs](https://github.com/pester/docs)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
