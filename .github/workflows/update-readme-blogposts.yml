@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Update latest blog posts from website
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
