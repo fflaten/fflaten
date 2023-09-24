@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9314](https://github.com/facebook/docusaurus/issues/9314) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. 🎉 Merged PR [#5](https://github.com/fflaten/fflaten/pull/5) in [fflaten/fflaten](https://github.com/fflaten/fflaten)
-3. 🗣 Commented on [#281](https://github.com/pester/docs/pull/281#issuecomment-1711415495) in [pester/docs](https://github.com/pester/docs)
-4. 🗣 Commented on [#2390](https://github.com/pester/Pester/issues/2390#issuecomment-1708585144) in [pester/Pester](https://github.com/pester/Pester)
-5. 🗣 Commented on [#7002](https://github.com/pnpm/pnpm/issues/7002#issuecomment-1708536514) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+1. 🔒 Closed issue [#61](https://github.com/expressive-code/expressive-code/issues/61) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+2. 🗣 Commented on [#61](https://github.com/expressive-code/expressive-code/issues/61#issuecomment-1728476127) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+3. 🗣 Commented on [#61](https://github.com/expressive-code/expressive-code/issues/61#issuecomment-1726092859) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+4. 🗣 Commented on [#61](https://github.com/expressive-code/expressive-code/issues/61#issuecomment-1725759897) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+5. ❗ Opened issue [#61](https://github.com/expressive-code/expressive-code/issues/61) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
