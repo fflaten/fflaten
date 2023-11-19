@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2400](https://github.com/pester/Pester/issues/2400#issuecomment-1806899233) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#87](https://github.com/natemoo-re/astro-icon/issues/87#issuecomment-1806400536) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
-3. 🗣 Commented on [#9061](https://github.com/withastro/astro/issues/9061#issuecomment-1806358600) in [withastro/astro](https://github.com/withastro/astro)
-4. ❗ Opened issue [#9061](https://github.com/withastro/astro/issues/9061) in [withastro/astro](https://github.com/withastro/astro)
-5. 🗣 Commented on [#141](https://github.com/natemoo-re/astro-icon/pull/141#issuecomment-1806290728) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
+1. 🗣 Commented on [#2391](https://github.com/pester/Pester/pull/2391#issuecomment-1810048001) in [pester/Pester](https://github.com/pester/Pester)
+2. 🗣 Commented on [#2400](https://github.com/pester/Pester/issues/2400#issuecomment-1807881381) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#2400](https://github.com/pester/Pester/issues/2400#issuecomment-1807110249) in [pester/Pester](https://github.com/pester/Pester)
+4. 🗣 Commented on [#289](https://github.com/pester/docs/issues/289#issuecomment-1807086436) in [pester/docs](https://github.com/pester/docs)
+5. 🗣 Commented on [#2400](https://github.com/pester/Pester/issues/2400#issuecomment-1806899233) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
