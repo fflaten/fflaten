@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/natemoo-re/astro-icon/issues/163#issuecomment-1868304664) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
-2. 🗣 Commented on [#125](https://github.com/natemoo-re/astro-icon/issues/125#issuecomment-1868119716) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
-3. 🗣 Commented on [#125](https://github.com/natemoo-re/astro-icon/issues/125#issuecomment-1868104746) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
-4. ❗ Opened issue [#163](https://github.com/natemoo-re/astro-icon/issues/163) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
-5. 🗣 Commented on [#2413](https://github.com/pester/Pester/issues/2413#issuecomment-1860544842) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#123](https://github.com/expressive-code/expressive-code/issues/123#issuecomment-1872115455) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+2. ❗ Opened issue [#9551](https://github.com/withastro/astro/issues/9551) in [withastro/astro](https://github.com/withastro/astro)
+3. ❗ Opened issue [#123](https://github.com/expressive-code/expressive-code/issues/123) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+4. 🗣 Commented on [#9345](https://github.com/withastro/astro/issues/9345#issuecomment-1870668935) in [withastro/astro](https://github.com/withastro/astro)
+5. 🗣 Commented on [#9345](https://github.com/withastro/astro/issues/9345#issuecomment-1870666372) in [withastro/astro](https://github.com/withastro/astro)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
