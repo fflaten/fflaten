@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/expressive-code/expressive-code/issues/123#issuecomment-1872115455) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-2. ❗ Opened issue [#9551](https://github.com/withastro/astro/issues/9551) in [withastro/astro](https://github.com/withastro/astro)
-3. ❗ Opened issue [#123](https://github.com/expressive-code/expressive-code/issues/123) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-4. 🗣 Commented on [#9345](https://github.com/withastro/astro/issues/9345#issuecomment-1870668935) in [withastro/astro](https://github.com/withastro/astro)
-5. 🗣 Commented on [#9345](https://github.com/withastro/astro/issues/9345#issuecomment-1870666372) in [withastro/astro](https://github.com/withastro/astro)
+1. 🗣 Commented on [#2417](https://github.com/pester/Pester/issues/2417#issuecomment-1878574852) in [pester/Pester](https://github.com/pester/Pester)
+2. 🗣 Commented on [#2412](https://github.com/pester/Pester/pull/2412#issuecomment-1874695017) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#2414](https://github.com/pester/Pester/issues/2414#issuecomment-1874603307) in [pester/Pester](https://github.com/pester/Pester)
+4. 🗣 Commented on [#2414](https://github.com/pester/Pester/issues/2414#issuecomment-1874598570) in [pester/Pester](https://github.com/pester/Pester)
+5. 💪 Opened PR [#292](https://github.com/pester/docs/pull/292) in [pester/docs](https://github.com/pester/docs)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
