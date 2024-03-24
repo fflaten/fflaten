@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#303](https://github.com/pester/docs/pull/303#issuecomment-2002101563) in [pester/docs](https://github.com/pester/docs)
-2. 💪 Opened PR [#303](https://github.com/pester/docs/pull/303) in [pester/docs](https://github.com/pester/docs)
-3. 🗣 Commented on [#302](https://github.com/pester/docs/pull/302#issuecomment-2002089611) in [pester/docs](https://github.com/pester/docs)
-4. 💪 Opened PR [#302](https://github.com/pester/docs/pull/302) in [pester/docs](https://github.com/pester/docs)
-5. 🗣 Commented on [#13](https://github.com/withastro/studio-issues/issues/13#issuecomment-1992486589) in [withastro/studio-issues](https://github.com/withastro/studio-issues)
+1. 🗣 Commented on [#301](https://github.com/pester/docs/pull/301#issuecomment-2016520699) in [pester/docs](https://github.com/pester/docs)
+2. 🗣 Commented on [#303](https://github.com/pester/docs/pull/303#issuecomment-2002531521) in [pester/docs](https://github.com/pester/docs)
+3. 🗣 Commented on [#303](https://github.com/pester/docs/pull/303#issuecomment-2002451635) in [pester/docs](https://github.com/pester/docs)
+4. 🗣 Commented on [#303](https://github.com/pester/docs/pull/303#issuecomment-2002101563) in [pester/docs](https://github.com/pester/docs)
+5. 💪 Opened PR [#303](https://github.com/pester/docs/pull/303) in [pester/docs](https://github.com/pester/docs)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
