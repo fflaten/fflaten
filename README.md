@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/pester/docs/pull/230#issuecomment-2027983558) in [pester/docs](https://github.com/pester/docs)
-2. 🗣 Commented on [#2405](https://github.com/pester/Pester/pull/2405#issuecomment-2027705949) in [pester/Pester](https://github.com/pester/Pester)
-3. 🗣 Commented on [#2427](https://github.com/pester/Pester/issues/2427#issuecomment-2018950692) in [pester/Pester](https://github.com/pester/Pester)
-4. 🗣 Commented on [#2425](https://github.com/pester/Pester/issues/2425#issuecomment-2016921777) in [pester/Pester](https://github.com/pester/Pester)
-5. 🗣 Commented on [#301](https://github.com/pester/docs/pull/301#issuecomment-2016520699) in [pester/docs](https://github.com/pester/docs)
+1. 💪 Opened PR [#2430](https://github.com/pester/Pester/pull/2430) in [pester/Pester](https://github.com/pester/Pester)
+2. 💪 Opened PR [#2429](https://github.com/pester/Pester/pull/2429) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#62](https://github.com/potatoqualitee/psmodulecache/pull/62#issuecomment-2034934513) in [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache)
+4. 🗣 Commented on [#2428](https://github.com/pester/Pester/pull/2428#issuecomment-2033044105) in [pester/Pester](https://github.com/pester/Pester)
+5. 🗣 Commented on [#1423](https://github.com/pester/Pester/issues/1423#issuecomment-2033039104) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
