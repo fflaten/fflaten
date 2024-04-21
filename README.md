@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/maester365/maester/pull/95) in [maester365/maester](https://github.com/maester365/maester)
-2. ❗ Opened issue [#90](https://github.com/maester365/maester/issues/90) in [maester365/maester](https://github.com/maester365/maester)
-3. 🗣 Commented on [#70](https://github.com/maester365/maester/issues/70#issuecomment-2053713602) in [maester365/maester](https://github.com/maester365/maester)
-4. 💪 Opened PR [#87](https://github.com/maester365/maester/pull/87) in [maester365/maester](https://github.com/maester365/maester)
-5. 💪 Opened PR [#86](https://github.com/maester365/maester/pull/86) in [maester365/maester](https://github.com/maester365/maester)
+1. 🗣 Commented on [#309](https://github.com/pester/docs/pull/309#issuecomment-2067751426) in [pester/docs](https://github.com/pester/docs)
+2. 💪 Opened PR [#309](https://github.com/pester/docs/pull/309) in [pester/docs](https://github.com/pester/docs)
+3. 🗣 Commented on [#2364](https://github.com/pester/Pester/pull/2364#issuecomment-2064154885) in [pester/Pester](https://github.com/pester/Pester)
+4. ❌ Closed PR [#2223](https://github.com/pester/Pester/pull/2223) in [pester/Pester](https://github.com/pester/Pester)
+5. 🗣 Commented on [#66](https://github.com/maester365/maester/issues/66#issuecomment-2057665377) in [maester365/maester](https://github.com/maester365/maester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
