@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2428](https://github.com/pester/Pester/pull/2428#issuecomment-2118995068) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#2468](https://github.com/pester/Pester/pull/2468#issuecomment-2118993883) in [pester/Pester](https://github.com/pester/Pester)
-3. 💪 Opened PR [#2469](https://github.com/pester/Pester/pull/2469) in [pester/Pester](https://github.com/pester/Pester)
-4. 🗣 Commented on [#16874](https://github.com/PowerShell/PowerShell/issues/16874#issuecomment-2118861978) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-5. 🗣 Commented on [#204](https://github.com/PowerShell/PowerShellGallery/issues/204#issuecomment-2118810668) in [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery)
+1. 🗣 Commented on [#2482](https://github.com/pester/Pester/pull/2482#issuecomment-2122982236) in [pester/Pester](https://github.com/pester/Pester)
+2. 💪 Opened PR [#2482](https://github.com/pester/Pester/pull/2482) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#2480](https://github.com/pester/Pester/pull/2480#issuecomment-2122882340) in [pester/Pester](https://github.com/pester/Pester)
+4. 🗣 Commented on [#2480](https://github.com/pester/Pester/pull/2480#issuecomment-2122866361) in [pester/Pester](https://github.com/pester/Pester)
+5. 🗣 Commented on [#2479](https://github.com/pester/Pester/issues/2479#issuecomment-2122824011) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
