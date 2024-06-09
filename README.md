@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2485](https://github.com/pester/Pester/issues/2485) in [pester/Pester](https://github.com/pester/Pester)
-2. ❗ Opened issue [#313](https://github.com/pester/docs/issues/313) in [pester/docs](https://github.com/pester/docs)
-3. 🗣 Commented on [#2485](https://github.com/pester/Pester/issues/2485#issuecomment-2134923993) in [pester/Pester](https://github.com/pester/Pester)
-4. 🗣 Commented on [#2482](https://github.com/pester/Pester/pull/2482#issuecomment-2122982236) in [pester/Pester](https://github.com/pester/Pester)
-5. 💪 Opened PR [#2482](https://github.com/pester/Pester/pull/2482) in [pester/Pester](https://github.com/pester/Pester)
+1. 🔒 Closed issue [#289](https://github.com/pester/docs/issues/289) in [pester/docs](https://github.com/pester/docs)
+2. 💪 Opened PR [#315](https://github.com/pester/docs/pull/315) in [pester/docs](https://github.com/pester/docs)
+3. 🗣 Commented on [#217](https://github.com/pester/docs/pull/217#issuecomment-2156069667) in [pester/docs](https://github.com/pester/docs)
+4. 🎉 Merged PR [#217](https://github.com/pester/docs/pull/217) in [pester/docs](https://github.com/pester/docs)
+5. 🔒 Closed issue [#258](https://github.com/pester/docs/issues/258) in [pester/docs](https://github.com/pester/docs)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
