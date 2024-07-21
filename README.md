@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#335](https://github.com/maester365/maester/pull/335) in [maester365/maester](https://github.com/maester365/maester)
-2. 💪 Opened PR [#334](https://github.com/maester365/maester/pull/334) in [maester365/maester](https://github.com/maester365/maester)
-3. ❗ Opened issue [#333](https://github.com/maester365/maester/issues/333) in [maester365/maester](https://github.com/maester365/maester)
-4. 💪 Opened PR [#332](https://github.com/maester365/maester/pull/332) in [maester365/maester](https://github.com/maester365/maester)
-5. 🗣 Commented on [#185](https://github.com/alt3/Docusaurus.Powershell/issues/185#issuecomment-2226824039) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
+1. 💪 Opened PR [#371](https://github.com/maester365/maester/pull/371) in [maester365/maester](https://github.com/maester365/maester)
+2. 🗣 Commented on [#369](https://github.com/maester365/maester/pull/369#issuecomment-2241079897) in [maester365/maester](https://github.com/maester365/maester)
+3. 🗣 Commented on [#316](https://github.com/pester/docs/pull/316#issuecomment-2240989115) in [pester/docs](https://github.com/pester/docs)
+4. 💪 Opened PR [#369](https://github.com/maester365/maester/pull/369) in [maester365/maester](https://github.com/maester365/maester)
+5. 💪 Opened PR [#368](https://github.com/maester365/maester/pull/368) in [maester365/maester](https://github.com/maester365/maester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
