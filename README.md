@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2550](https://github.com/pester/Pester/issues/2550#issuecomment-2252549988) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#2533](https://github.com/pester/Pester/issues/2533#issuecomment-2252546080) in [pester/Pester](https://github.com/pester/Pester)
-3. ❗ Opened issue [#2550](https://github.com/pester/Pester/issues/2550) in [pester/Pester](https://github.com/pester/Pester)
-4. 🗣 Commented on [#2533](https://github.com/pester/Pester/issues/2533#issuecomment-2252338247) in [pester/Pester](https://github.com/pester/Pester)
-5. 💪 Opened PR [#2549](https://github.com/pester/Pester/pull/2549) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#2554](https://github.com/pester/Pester/pull/2554#issuecomment-2267173036) in [pester/Pester](https://github.com/pester/Pester)
+2. 💪 Opened PR [#2554](https://github.com/pester/Pester/pull/2554) in [pester/Pester](https://github.com/pester/Pester)
+3. 🗣 Commented on [#2298](https://github.com/pester/Pester/pull/2298#issuecomment-2266265938) in [pester/Pester](https://github.com/pester/Pester)
+4. 💪 Opened PR [#2553](https://github.com/pester/Pester/pull/2553) in [pester/Pester](https://github.com/pester/Pester)
+5. 💪 Opened PR [#2552](https://github.com/pester/Pester/pull/2552) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
