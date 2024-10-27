@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2298](https://github.com/pester/Pester/pull/2298#issuecomment-2414826605) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#70](https://github.com/nohwnd/Profiler/issues/70#issuecomment-2395429411) in [nohwnd/Profiler](https://github.com/nohwnd/Profiler)
-3. 🗣 Commented on [#33](https://github.com/elmedico27/fordpowerup/issues/33#issuecomment-2357570780) in [elmedico27/fordpowerup](https://github.com/elmedico27/fordpowerup)
-4. 🗣 Commented on [#2564](https://github.com/pester/Pester/issues/2564#issuecomment-2353724625) in [pester/Pester](https://github.com/pester/Pester)
-5. 🗣 Commented on [#2565](https://github.com/pester/Pester/issues/2565#issuecomment-2353716838) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#37](https://github.com/elmedico27/fordpowerup/issues/37#issuecomment-2434185692) in [elmedico27/fordpowerup](https://github.com/elmedico27/fordpowerup)
+2. ❗ Opened issue [#37](https://github.com/elmedico27/fordpowerup/issues/37) in [elmedico27/fordpowerup](https://github.com/elmedico27/fordpowerup)
+3. 🗣 Commented on [#2298](https://github.com/pester/Pester/pull/2298#issuecomment-2414826605) in [pester/Pester](https://github.com/pester/Pester)
+4. 🗣 Commented on [#70](https://github.com/nohwnd/Profiler/issues/70#issuecomment-2395429411) in [nohwnd/Profiler](https://github.com/nohwnd/Profiler)
+5. 🗣 Commented on [#33](https://github.com/elmedico27/fordpowerup/issues/33#issuecomment-2357570780) in [elmedico27/fordpowerup](https://github.com/elmedico27/fordpowerup)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
