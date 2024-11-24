@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/elmedico27/fordpowerup/issues/39#issuecomment-2467217532) in [elmedico27/fordpowerup](https://github.com/elmedico27/fordpowerup)
-2. 🗣 Commented on [#16734](https://github.com/PowerShell/PowerShell/pull/16734#issuecomment-2466735210) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-3. 🗣 Commented on [#316](https://github.com/pester/docs/pull/316#issuecomment-2466302673) in [pester/docs](https://github.com/pester/docs)
-4. ❗ Opened issue [#39](https://github.com/elmedico27/fordpowerup/issues/39) in [elmedico27/fordpowerup](https://github.com/elmedico27/fordpowerup)
-5. 🔒 Closed issue [#2570](https://github.com/pester/Pester/issues/2570) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#2464](https://github.com/pester/Pester/issues/2464#issuecomment-2493332880) in [pester/Pester](https://github.com/pester/Pester)
+2. 💪 Opened PR [#2580](https://github.com/pester/Pester/pull/2580) in [pester/Pester](https://github.com/pester/Pester)
+3. 🔒 Closed issue [#2503](https://github.com/pester/Pester/issues/2503) in [pester/Pester](https://github.com/pester/Pester)
+4. 🎉 Merged PR [#332](https://github.com/pester/docs/pull/332) in [pester/docs](https://github.com/pester/docs)
+5. 💪 Opened PR [#2579](https://github.com/pester/Pester/pull/2579) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
