@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2594](https://github.com/pester/Pester/issues/2594) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#2581](https://github.com/pester/Pester/issues/2581#issuecomment-2541225621) in [pester/Pester](https://github.com/pester/Pester)
-3. 🗣 Commented on [#2583](https://github.com/pester/Pester/issues/2583#issuecomment-2541222680) in [pester/Pester](https://github.com/pester/Pester)
-4. 🗣 Commented on [#201](https://github.com/alt3/Docusaurus.Powershell/pull/201#issuecomment-2499122528) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
-5. 🗣 Commented on [#201](https://github.com/alt3/Docusaurus.Powershell/pull/201#issuecomment-2498943372) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
+1. 🗣 Commented on [#17407](https://github.com/PowerShell/PowerShell/issues/17407#issuecomment-2569911426) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+2. 🗣 Commented on [#2596](https://github.com/pester/Pester/issues/2596#issuecomment-2566396845) in [pester/Pester](https://github.com/pester/Pester)
+3. ❗ Opened issue [#2596](https://github.com/pester/Pester/issues/2596) in [pester/Pester](https://github.com/pester/Pester)
+4. 🔒 Closed issue [#2594](https://github.com/pester/Pester/issues/2594) in [pester/Pester](https://github.com/pester/Pester)
+5. 🗣 Commented on [#2581](https://github.com/pester/Pester/issues/2581#issuecomment-2541225621) in [pester/Pester](https://github.com/pester/Pester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
