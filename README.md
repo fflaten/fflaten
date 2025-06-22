@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#971](https://github.com/maester365/maester/issues/971) in [maester365/maester](https://github.com/maester365/maester)
-2. ❗ Opened issue [#970](https://github.com/maester365/maester/issues/970) in [maester365/maester](https://github.com/maester365/maester)
-3. 🗣 Commented on [#961](https://github.com/maester365/maester/pull/961#issuecomment-2952543454) in [maester365/maester](https://github.com/maester365/maester)
-4. 🗣 Commented on [#961](https://github.com/maester365/maester/pull/961#issuecomment-2927768192) in [maester365/maester](https://github.com/maester365/maester)
-5. 💪 Opened PR [#961](https://github.com/maester365/maester/pull/961) in [maester365/maester](https://github.com/maester365/maester)
+1. 🗣 Commented on [#970](https://github.com/maester365/maester/issues/970#issuecomment-2986723922) in [maester365/maester](https://github.com/maester365/maester)
+2. 🗣 Commented on [#970](https://github.com/maester365/maester/issues/970#issuecomment-2978237021) in [maester365/maester](https://github.com/maester365/maester)
+3. 🗣 Commented on [#970](https://github.com/maester365/maester/issues/970#issuecomment-2977532442) in [maester365/maester](https://github.com/maester365/maester)
+4. ❗ Opened issue [#971](https://github.com/maester365/maester/issues/971) in [maester365/maester](https://github.com/maester365/maester)
+5. ❗ Opened issue [#970](https://github.com/maester365/maester/issues/970) in [maester365/maester](https://github.com/maester365/maester)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
