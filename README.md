@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2178](https://github.com/pester/Pester/issues/2178#issuecomment-3036952198) in [pester/Pester](https://github.com/pester/Pester)
-2. 🗣 Commented on [#1840](https://github.com/PowerShell/PSResourceGet/issues/1840#issuecomment-3035920996) in [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
-3. 🗣 Commented on [#1840](https://github.com/PowerShell/PSResourceGet/issues/1840#issuecomment-3035831213) in [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
-4. ❗ Opened issue [#1840](https://github.com/PowerShell/PSResourceGet/issues/1840) in [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
-5. 🗣 Commented on [#17407](https://github.com/PowerShell/PowerShell/issues/17407#issuecomment-3033227473) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+1. 🗣 Commented on [#1096](https://github.com/redhat-developer/vscode-xml/issues/1096#issuecomment-3066027952) in [redhat-developer/vscode-xml](https://github.com/redhat-developer/vscode-xml)
+2. 🔒 Closed issue [#1096](https://github.com/redhat-developer/vscode-xml/issues/1096) in [redhat-developer/vscode-xml](https://github.com/redhat-developer/vscode-xml)
+3. 🗣 Commented on [#1747](https://github.com/eclipse-lemminx/lemminx/issues/1747#issuecomment-3066026904) in [eclipse-lemminx/lemminx](https://github.com/eclipse-lemminx/lemminx)
+4. ❗ Opened issue [#1747](https://github.com/eclipse-lemminx/lemminx/issues/1747) in [eclipse-lemminx/lemminx](https://github.com/eclipse-lemminx/lemminx)
+5. 🎉 Merged PR [#4](https://github.com/fflaten/vscode-windowssandbox-configuration/pull/4) in [fflaten/vscode-windowssandbox-configuration](https://github.com/fflaten/vscode-windowssandbox-configuration)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
