@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1096](https://github.com/redhat-developer/vscode-xml/issues/1096#issuecomment-3066027952) in [redhat-developer/vscode-xml](https://github.com/redhat-developer/vscode-xml)
-2. 🔒 Closed issue [#1096](https://github.com/redhat-developer/vscode-xml/issues/1096) in [redhat-developer/vscode-xml](https://github.com/redhat-developer/vscode-xml)
-3. 🗣 Commented on [#1747](https://github.com/eclipse-lemminx/lemminx/issues/1747#issuecomment-3066026904) in [eclipse-lemminx/lemminx](https://github.com/eclipse-lemminx/lemminx)
-4. ❗ Opened issue [#1747](https://github.com/eclipse-lemminx/lemminx/issues/1747) in [eclipse-lemminx/lemminx](https://github.com/eclipse-lemminx/lemminx)
-5. 🎉 Merged PR [#4](https://github.com/fflaten/vscode-windowssandbox-configuration/pull/4) in [fflaten/vscode-windowssandbox-configuration](https://github.com/fflaten/vscode-windowssandbox-configuration)
+1. 🗣 Commented on [#12](https://github.com/rachfop/docusaurus-plugin-llms/issues/12#issuecomment-3152039103) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
+2. ❗ Opened issue [#14](https://github.com/rachfop/docusaurus-plugin-llms/issues/14) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
+3. ❗ Opened issue [#13](https://github.com/rachfop/docusaurus-plugin-llms/issues/13) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
+4. ❗ Opened issue [#12](https://github.com/rachfop/docusaurus-plugin-llms/issues/12) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
+5. ❗ Opened issue [#11](https://github.com/rachfop/docusaurus-plugin-llms/issues/11) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
