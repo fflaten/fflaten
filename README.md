@@ -50,7 +50,7 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/fflaten/fflaten/pull/10) in [fflaten/fflaten](https://github.com/fflaten/fflaten)
+1. ❌ Closed PR [#7](https://github.com/TylerLeonhardt/vscode-inline-values-powershell/pull/7) in [TylerLeonhardt/vscode-inline-values-powershell](https://github.com/TylerLeonhardt/vscode-inline-values-powershell)
 2. 🗣 Commented on [#12](https://github.com/rachfop/docusaurus-plugin-llms/issues/12#issuecomment-3152039103) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
 3. ❗ Opened issue [#14](https://github.com/rachfop/docusaurus-plugin-llms/issues/14) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
 4. ❗ Opened issue [#13](https://github.com/rachfop/docusaurus-plugin-llms/issues/13) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
