@@ -50,7 +50,7 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17407](https://github.com/PowerShell/PowerShell/issues/17407#issuecomment-3702132132) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+1. 🗣 Commented on [#14](https://github.com/rachfop/docusaurus-plugin-llms/issues/14#issuecomment-3872296483) in [rachfop/docusaurus-plugin-llms](https://github.com/rachfop/docusaurus-plugin-llms)
 2. 🗣 Commented on [#970](https://github.com/maester365/maester/issues/970#issuecomment-3651305078) in [maester365/maester](https://github.com/maester365/maester)
 3. 🗣 Commented on [#970](https://github.com/maester365/maester/issues/970#issuecomment-3587292864) in [maester365/maester](https://github.com/maester365/maester)
 4. 🗣 Commented on [#970](https://github.com/maester365/maester/issues/970#issuecomment-3587269033) in [maester365/maester](https://github.com/maester365/maester)
