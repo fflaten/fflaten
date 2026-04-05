@@ -50,8 +50,8 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1460](https://github.com/maester365/maester/pull/1460) in [maester365/maester](https://github.com/maester365/maester)
-2. 🗣 Commented on [#1460](https://github.com/maester365/maester/pull/1460#issuecomment-3958562031) in [maester365/maester](https://github.com/maester365/maester)
+1. 🎉 Merged PR [#52](https://github.com/fflaten/vscode-windowssandbox-configuration/pull/52) in [fflaten/vscode-windowssandbox-configuration](https://github.com/fflaten/vscode-windowssandbox-configuration)
+2. 💪 Opened PR [#52](https://github.com/fflaten/vscode-windowssandbox-configuration/pull/52) in [fflaten/vscode-windowssandbox-configuration](https://github.com/fflaten/vscode-windowssandbox-configuration)
 3. 🗣 Commented on [#1460](https://github.com/maester365/maester/pull/1460#issuecomment-3953088047) in [maester365/maester](https://github.com/maester365/maester)
 4. 🎉 Merged PR [#27](https://github.com/maester365/maester-action/pull/27) in [maester365/maester-action](https://github.com/maester365/maester-action)
 5. 💪 Opened PR [#27](https://github.com/maester365/maester-action/pull/27) in [maester365/maester-action](https://github.com/maester365/maester-action)
