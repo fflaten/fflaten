@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1728](https://github.com/maester365/maester/issues/1728#issuecomment-4372452464) in [maester365/maester](https://github.com/maester365/maester)
-2. 🗣 Commented on [#1728](https://github.com/maester365/maester/issues/1728#issuecomment-4372428128) in [maester365/maester](https://github.com/maester365/maester)
-3. 🗣 Commented on [#1728](https://github.com/maester365/maester/issues/1728#issuecomment-4372427290) in [maester365/maester](https://github.com/maester365/maester)
-4. ❗ Opened issue [#1729](https://github.com/maester365/maester/issues/1729) in [maester365/maester](https://github.com/maester365/maester)
-5. ❗ Opened issue [#1728](https://github.com/maester365/maester/issues/1728) in [maester365/maester](https://github.com/maester365/maester)
+1. ℹ️ Labeled issue [#22463](https://github.com/vitejs/vite/issues/22463) in [vitejs/vite](https://github.com/vitejs/vite)
+2. ❗ Opened issue [#22463](https://github.com/vitejs/vite/issues/22463) in [vitejs/vite](https://github.com/vitejs/vite)
+3. 🗣 Commented on [#1](https://github.com/fflaten/dependabot-audit-repro/pull/1#issuecomment-4462766942) in [fflaten/dependabot-audit-repro](https://github.com/fflaten/dependabot-audit-repro)
+4. 🗣 Commented on [#1](https://github.com/fflaten/dependabot-audit-repro/pull/1#issuecomment-4462765661) in [fflaten/dependabot-audit-repro](https://github.com/fflaten/dependabot-audit-repro)
+5. 🗣 Commented on [#1](https://github.com/fflaten/dependabot-audit-repro/pull/1#issuecomment-4462758747) in [fflaten/dependabot-audit-repro](https://github.com/fflaten/dependabot-audit-repro)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
