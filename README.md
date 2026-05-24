@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#22463](https://github.com/vitejs/vite/issues/22463) in [vitejs/vite](https://github.com/vitejs/vite)
-2. ❗ Opened issue [#22463](https://github.com/vitejs/vite/issues/22463) in [vitejs/vite](https://github.com/vitejs/vite)
-3. 🗣 Commented on [#1](https://github.com/fflaten/dependabot-audit-repro/pull/1#issuecomment-4462766942) in [fflaten/dependabot-audit-repro](https://github.com/fflaten/dependabot-audit-repro)
-4. 🗣 Commented on [#1](https://github.com/fflaten/dependabot-audit-repro/pull/1#issuecomment-4462765661) in [fflaten/dependabot-audit-repro](https://github.com/fflaten/dependabot-audit-repro)
-5. 🗣 Commented on [#1](https://github.com/fflaten/dependabot-audit-repro/pull/1#issuecomment-4462758747) in [fflaten/dependabot-audit-repro](https://github.com/fflaten/dependabot-audit-repro)
+1. 🗣 Commented on [#15073](https://github.com/dependabot/dependabot-core/issues/15073#issuecomment-4522539680) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+2. 🗣 Commented on [#15073](https://github.com/dependabot/dependabot-core/issues/15073#issuecomment-4490472400) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+3. ℹ️ Labeled issue [#15073](https://github.com/dependabot/dependabot-core/issues/15073) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+4. ❗ Opened issue [#15073](https://github.com/dependabot/dependabot-core/issues/15073) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+5. ℹ️ Labeled issue [#22463](https://github.com/vitejs/vite/issues/22463) in [vitejs/vite](https://github.com/vitejs/vite)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
