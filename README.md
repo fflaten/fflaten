@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15073](https://github.com/dependabot/dependabot-core/issues/15073#issuecomment-4522539680) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-2. 🗣 Commented on [#15073](https://github.com/dependabot/dependabot-core/issues/15073#issuecomment-4490472400) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-3. ℹ️ Labeled issue [#15073](https://github.com/dependabot/dependabot-core/issues/15073) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-4. ❗ Opened issue [#15073](https://github.com/dependabot/dependabot-core/issues/15073) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-5. ℹ️ Labeled issue [#22463](https://github.com/vitejs/vite/issues/22463) in [vitejs/vite](https://github.com/vitejs/vite)
+1. 🗣 Commented on [#80](https://github.com/bruits/satteri/issues/80#issuecomment-4645324438) in [bruits/satteri](https://github.com/bruits/satteri)
+2. 🗣 Commented on [#80](https://github.com/bruits/satteri/issues/80#issuecomment-4643472801) in [bruits/satteri](https://github.com/bruits/satteri)
+3. ❗ Opened issue [#80](https://github.com/bruits/satteri/issues/80) in [bruits/satteri](https://github.com/bruits/satteri)
+4. 🗣 Commented on [#15073](https://github.com/dependabot/dependabot-core/issues/15073#issuecomment-4522539680) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+5. 🗣 Commented on [#15073](https://github.com/dependabot/dependabot-core/issues/15073#issuecomment-4490472400) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
