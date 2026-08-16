@@ -50,11 +50,11 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#432](https://github.com/pester/docs/issues/432) in [pester/docs](https://github.com/pester/docs)
-2. 🗣 Commented on [#136](https://github.com/pester/docs/issues/136#issuecomment-5228157099) in [pester/docs](https://github.com/pester/docs)
-3. 🔒 Closed issue [#136](https://github.com/pester/docs/issues/136) in [pester/docs](https://github.com/pester/docs)
-4. 🗣 Commented on [#129](https://github.com/alt3/Docusaurus.Powershell/issues/129#issuecomment-5218848582) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
-5. 🗣 Commented on [#2947](https://github.com/pester/Pester/pull/2947#issuecomment-5216983623) in [pester/Pester](https://github.com/pester/Pester)
+1. ❌ Closed PR [#267](https://github.com/pester/docs/pull/267) in [pester/docs](https://github.com/pester/docs)
+2. 🎉 Merged PR [#418](https://github.com/pester/docs/pull/418) in [pester/docs](https://github.com/pester/docs)
+3. 🎉 Merged PR [#255](https://github.com/alt3/Docusaurus.Powershell/pull/255) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
+4. 🗣 Commented on [#255](https://github.com/alt3/Docusaurus.Powershell/pull/255#issuecomment-5286284665) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
+5. 💪 Opened PR [#255](https://github.com/alt3/Docusaurus.Powershell/pull/255) in [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell)
 <!--END_SECTION:activity-->
 
 #### 🔢 Stats
