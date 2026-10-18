@@ -50,7 +50,7 @@ Always looking to improve my skills and learn more languages and technologies.
 ### 👨‍💻 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3041](https://github.com/pester/Pester/pull/3041) in [pester/Pester](https://github.com/pester/Pester)
+1. 🗣 Commented on [#64](https://github.com/microsoft/Windows-Sandbox/issues/64#issuecomment-6234439271) in [microsoft/Windows-Sandbox](https://github.com/microsoft/Windows-Sandbox)
 2. 💪 Opened PR [#3041](https://github.com/pester/Pester/pull/3041) in [pester/Pester](https://github.com/pester/Pester)
 3. 🗣 Commented on [#3036](https://github.com/pester/Pester/issues/3036#issuecomment-5551352939) in [pester/Pester](https://github.com/pester/Pester)
 4. 🗣 Commented on [#3033](https://github.com/pester/Pester/pull/3033#issuecomment-5551248551) in [pester/Pester](https://github.com/pester/Pester)
